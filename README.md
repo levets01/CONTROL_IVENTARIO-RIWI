@@ -1,4 +1,4 @@
-#Sistema de Control de Inventario en Python
+## Sistema de Control de Inventario en Python
 
 Este es un programa sencillo desarrollado en Python que permite registrar un producto, su precio y la cantidad disponible para calcular el costo total del inventario ingresado.
 
