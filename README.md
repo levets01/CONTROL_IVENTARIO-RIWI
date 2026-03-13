@@ -1,83 +1,88 @@
-## Sistema de Control de Inventario en Python
+# 📦 Sistema de Control de Inventario en Python
 
-Este es un programa sencillo desarrollado en Python que permite registrar un producto, su precio y la cantidad disponible para calcular el costo total del inventario ingresado.
+Este es un programa sencillo desarrollado en **Python** que permite registrar un producto, su precio y la cantidad disponible para calcular el **costo total del inventario ingresado**.
 
-El sistema incluye validación de datos, lo que evita errores si el usuario ingresa información incorrecta.
+El sistema incluye **validación de datos**, lo que evita errores si el usuario ingresa información incorrecta.
 
-¿Qué hace este programa?
+---
+
+## 🚀 ¿Qué hace este programa?
 
 El programa permite:
 
-Registrar el nombre de un producto
+* Registrar el **nombre de un producto**
+* Registrar el **precio del producto**
+* Registrar la **cantidad disponible**
+* Calcular automáticamente el **costo total**
+* Mostrar los resultados de forma clara en pantalla
+* Evitar errores cuando se ingresan datos incorrectos
 
-Registrar el precio del producto
+---
 
-Registrar la cantidad disponible
-
-Calcular automáticamente el costo total
-
-Mostrar los resultados de forma clara en pantalla
-
-Evitar errores cuando se ingresan datos incorrectos
-
-📋 ¿Cómo usar el programa?
+## 📋 ¿Cómo usar el programa?
 
 Sigue estos pasos:
 
-Ejecuta el programa en Python.
+1. Ejecuta el programa en **Python**.
+2. El sistema te pedirá el **nombre del producto**.
+3. Luego te pedirá el **precio del producto**.
+4. Después deberás ingresar la **cantidad disponible**.
+5. Finalmente el sistema calculará el **costo total** y mostrará el resultado en pantalla.
 
-El sistema te pedirá el nombre del producto.
+---
 
-Luego te pedirá el precio del producto.
-
-Después deberás ingresar la cantidad disponible.
-
-Finalmente el sistema calculará el costo total y mostrará el resultado en pantalla.
-
-⚠️ Validaciones del sistema
+## ⚠️ Validaciones del sistema
 
 El programa incluye varias validaciones para evitar errores:
 
-El nombre del producto no puede estar vacío.
+* El **nombre del producto** no puede estar vacío.
+* El nombre solo puede contener **letras**.
+* El **precio** debe ser un número válido.
+* El precio **no puede ser negativo**.
+* La **cantidad** debe ser un número entero.
+* La cantidad **no puede ser negativa**.
 
-El nombre solo puede contener letras.
+Si se ingresa un dato incorrecto, el sistema mostrará un **mensaje de error** y volverá a pedir el dato.
 
-El precio debe ser un número válido.
+---
 
-El precio no puede ser negativo.
-
-La cantidad debe ser un número entero.
-
-La cantidad no puede ser negativa.
-
-Si se ingresa un dato incorrecto, el sistema mostrará un mensaje de error y volverá a pedir el dato.
-
-💻 Requisitos
+## 💻 Requisitos
 
 Para ejecutar este programa necesitas tener instalado:
 
-Python 3
+* **Python 3**
 
-▶️ Cómo ejecutar el programa
+---
 
-Descarga el archivo .py.
+## ▶️ Cómo ejecutar el programa
 
-Abre una terminal o consola.
+1. Descarga el archivo `.py`.
+2. Abre una **terminal o consola**.
+3. Ejecuta el siguiente comando:
 
-Ejecuta el siguiente comando:
-
+```bash
 python inventario.py
-🧾 Ejemplo de uso
+```
+
+---
+
+## 🧾 Ejemplo de uso
+
+```
 Ingrese el nombre del producto: Arroz
 Ingrese el precio del producto: 2.5
 Ingrese la cantidad del producto: 10
 
 --- Resultado ---
 Producto: Arroz | Precio: 2.5 | Cantidad: 10 | Total: 25.0
+```
 
-🛠️ Tecnologías utilizadas
+---
 
-Python 3
+## 🛠️ Tecnologías utilizadas
+
+* Python 3
+
 
 ## 💻 Código del programa
 
