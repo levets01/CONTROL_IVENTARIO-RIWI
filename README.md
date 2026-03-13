@@ -97,7 +97,10 @@ Producto: Arroz | Precio: 2.5 | Cantidad: 10 | Total: 25.0
 
 ## Diagrama de flujo
 
-![Diagrama de flujo](img/diagrama_flujo.png) 
+<p align="center">
+ <img src="img/diagrama_flujo.png"
+ width=500">
+</p>
 
 ## 💻 Código del programa
 
