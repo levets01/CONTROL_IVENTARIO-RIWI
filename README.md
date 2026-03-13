@@ -93,4 +93,4 @@ print("Cantidad:", cantidad)
 print("Total:", costo_total)
 
 print(f"Producto: {nombre} | Precio: {precio} | Cantidad: {cantidad} | Total: {costo_total}")
-print(f"Producto: {nombre} | Precio: {precio} | Cantidad: {cantidad} | Total: {costo_total}")
+
