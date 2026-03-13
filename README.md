@@ -156,8 +156,7 @@ print(f"Producto: {nombre} | Precio: {precio} | Cantidad: {cantidad} | Total: {c
 
 
 
-```
-
+```    
 
 
 
