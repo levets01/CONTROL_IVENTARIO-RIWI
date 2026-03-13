@@ -56,7 +56,7 @@ Para ejecutar este programa necesitas tener instalado:
 
 ## ▶️ Cómo ejecutar el programa
 
-1. Descarga el archivo `.py`.
+1. Descarga el archivo `.py`
 2. Abre una **terminal o consola**.
 3. Ejecuta el siguiente comando:
 
