@@ -95,7 +95,7 @@ Producto: Arroz | Precio: 2.5 | Cantidad: 10 | Total: 25.0
 
 * Python 3
 
-##Diagrama de flujo
+## iagrama de flujo
 
 ![Diagrama de flujo](img/diagrama_flujo.png) 
 
