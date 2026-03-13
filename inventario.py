@@ -12,11 +12,11 @@ while True:
     
     if not nombre:
         
-        print("Error : El nombre no puede estar vacio")
+         print("\033[31mError : El nombre no puede estar vacio\033[0m")
     
     elif not nombre.isalpha():
         
-        print("Error: El nombre solo debe tener letras")
+        print("\033[31mError: El nombre solo debe tener letras\033[0m")
            
     else :
         
@@ -29,12 +29,12 @@ while True:
         
         if precio < 0:
             
-            print("Error: El precio no puede ser negativo.")
+            print("\033[31mError: El precio no puede ser negativo.\033[0m")
             
             continue
         break
     except ValueError:
-        print("Error: Debe ingresar un número válido para el precio.")
+        print("\033[31mError: Debe ingresar un número válido para el precio.\033[0m")
 
 while True:
     try:
@@ -42,13 +42,13 @@ while True:
         
         if cantidad < 0:
             
-            print("Error: La cantidad no puede ser negativa.")
+            print("\033[31mError: La cantidad no puede ser negativa.\033[0m")
             
             continue
         
         break
     except ValueError:
-        print("Error: Debe ingresar un número entero para la cantidad.")
+        print("\033[31mError: Debe ingresar un número entero para la cantidad.\033[0m")
 
 costo_total = precio * cantidad
 # aca de muestra estilo factura
