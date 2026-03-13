@@ -75,6 +75,7 @@ apt install python3
 sudo apt install python3
 ```
 
+
 ---
 
 ## 🧾 Ejemplo de uso
