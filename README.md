@@ -14,7 +14,7 @@ El sistema incluye **validación de datos**, evitando que el programa se rompa s
 - Validación para evitar errores de entrada
 - Cálculo automático del **costo total**
 - Presentación clara de los resultados
-- El sistama no permite **valores negativos**
+- El sistema no permite **valores negativos**
 - No permite textos en el input de valor **numerico** e viseversa
 
 ---
