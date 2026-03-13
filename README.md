@@ -1,4 +1,4 @@
-# 📦 Sistema de Control de Inventario en Python
+#  Sistema de Control de Inventario en Python
 
 Este es un programa sencillo desarrollado en **Python** que permite registrar un producto, su precio y la cantidad disponible para calcular el **costo total del inventario ingresado**.
 
@@ -6,7 +6,7 @@ El sistema incluye **validación de datos**, lo que evita errores si el usuario 
 
 ---
 
-## 🚀 ¿Qué hace este programa?
+## ¿Qué hace este programa?
 
 El programa permite:
 
@@ -19,7 +19,7 @@ El programa permite:
 
 ---
 
-## 📋 ¿Cómo usar el programa?
+##  ¿Cómo usar el programa?
 
 Sigue estos pasos:
 
@@ -31,7 +31,7 @@ Sigue estos pasos:
 
 ---
 
-## ⚠️ Validaciones del sistema
+##  Validaciones del sistema
 
 El programa incluye varias validaciones para evitar errores:
 
