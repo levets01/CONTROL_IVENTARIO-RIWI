@@ -67,7 +67,7 @@ python3 inventario.py
 ## si no tienes python instalado usa
 
 ```bash
-apt install 
+apt install python3
 ```
 
 ---
