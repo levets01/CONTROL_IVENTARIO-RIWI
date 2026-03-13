@@ -64,10 +64,15 @@ Para ejecutar este programa necesitas tener instalado:
 python3 inventario.py
 
 ```
-## si no tienes python instalado usa
+## si no tienes python3 instalado usa
 
 ```bash
 apt install python3
+```
+## Si te pide persmisos elevados usa 
+
+```bash
+sudo apt install python3
 ```
 
 ---
@@ -147,4 +152,7 @@ print("Cantidad:", cantidad)
 print("Total:", costo_total)
 
 print(f"Producto: {nombre} | Precio: {precio} | Cantidad: {cantidad} | Total: {costo_total}")
+
+```
+## Creado por Stevel iglesias 🐍
 
